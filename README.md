@@ -35,10 +35,13 @@ A simple and responsive web project that changes the background color of the scr
 ---
 
 ## 📸 Preview
+## Desktop Preview
+![Preview](/Assets/preview-desktop.gif)
 
-![Preview](assets/preview.gif)
+## Mobile Preview
+![Preview](/Assets/preview-mobile.gif)
 
-> Make sure the preview GIF is placed in the `assets` folder or update the path as needed.
+> if you cannot see the preview do checkout the Assest folder
 
 ---
 
